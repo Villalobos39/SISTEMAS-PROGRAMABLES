@@ -10,4 +10,4 @@ Conformación de los equipos por integrantes.
 Conceptos de Industria 4.0 e IOT 
 ![MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C0.2_DulceJasminVillalobosPerez_Verde.md)
 ![PDF](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/PDF/C0.2_DulceJasminVillalobosPerez_Verde.pdf)
-![IMG](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/IMG/DIAGRAMA.drawio.png)
+
