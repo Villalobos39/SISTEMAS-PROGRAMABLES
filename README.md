@@ -13,6 +13,7 @@
 - C1.1 Reto en clase : Conceptos de electrónica básica. [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.1_DulceJasminVillalobosPerez_Verde.md)
 - C1.2 Reto en clase: Conceptos de electrónica básica y circuitos   [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.2_DulceJasminVillalobosPerez_Verde_.md)
 
+- C1.3 Reto en clase : Sensores [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.3_DulceJasminVillalobosPerez_Verde.md)
 
 
 
