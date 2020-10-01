@@ -15,6 +15,6 @@
 
 - C1.3 Reto en clase : Sensores [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.3_DulceJasminVillalobosPerez_Verde.md)
 
-
+- A.1.2 Actividad de aprendizaje 
 
 
