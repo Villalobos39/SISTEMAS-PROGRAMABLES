@@ -18,8 +18,11 @@
   - C1.3 Reto en clase : Sensores [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.3_DulceJasminVillalobosPerez_Verde.md)
   - C1.4 Reto en clase: Acondicionador de senal AmOP [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.4_DulceJasminVillalobosPerez_Verde.md)
   - C1.5 Reto en clase: Tipo de sensores [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C1.5_DulceJasminVillalobosPerez_Verde.md)
-  - C2.1 Reto en clase: Actuadores Neumatico e Hidraulicos, y sus tipos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.1_DulceJasminVillalobosPerez_Verde.md)
+  
 - #### ACTIVIDADES
   - A.1.2 Actividad de aprendizaje [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A1.2_Dulce_Jasmin_Villalobos_Perez_Verde.md)
   - A.1.3 Actividad de aprendizaje: [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A1.3_DulceJasminVillalobosPerez_Verde.md)
   - A.1.4 Actividad de aprendizaje: [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A1.4_DulceJasminVillalobosPerez_Verde.md)
+  
+  ### ACTUADORES:
+  - C2.1 Reto en clase: Actuadores Neumatico e Hidraulicos, y sus tipos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.1_DulceJasminVillalobosPerez_Verde.md)
