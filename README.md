@@ -25,4 +25,5 @@
   - A.1.4 Actividad de aprendizaje: [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A1.4_DulceJasminVillalobosPerez_Verde.md)
   
   ### ACTUADORES:
-  - C2.1 Reto en clase: Actuadores Neumatico e Hidraulicos, y sus tipos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.1_DulceJasminVillalobosPerez_Verde.md)
+  - #### RETO EN CLASE
+    - C2.1 Reto en clase: Actuadores Neumatico e Hidraulicos, y sus tipos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.1_DulceJasminVillalobosPerez_Verde.md)
