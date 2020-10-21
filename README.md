@@ -27,3 +27,4 @@
  ### ACTUADORES:
   - #### RETO EN CLASE
     - C2.1 Reto en clase: Actuadores Neumatico e Hidraulicos, y sus tipos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.1_DulceJasminVillalobosPerez_Verde.md)
+     - C2.2 Reto en clase: Actuadores eléctricos [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C2.2_DulceJasminVillalobosPerez_Verde.md)
