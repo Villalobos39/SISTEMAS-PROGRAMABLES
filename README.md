@@ -34,7 +34,10 @@
       - A.2.1 Actividad de aprendizaje [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A2.1_DulceJasminVillalobosPerez_Verde.md)
        - A.2.2 Actividad de aprendizaje [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A2.2_DulceJasminVillalobosPerez_Verde.md)
 
-
+### 
+ - #### RETO EN CLASE
+     - C2.1 Reto en clase: Arduino UNO salida digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.1_DulceJasminVillalobosPerez_Verde.md)
+     - C2.2 Reto en clase: Entradas digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.2_DulceJasminVillalobosPerez_Verde.md)
 
 
 
