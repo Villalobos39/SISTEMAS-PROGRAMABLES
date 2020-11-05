@@ -36,8 +36,10 @@
 
 ### MICROCONTROLADORES Y PROGRAMACIÓN 
  - #### RETO EN CLASE
-     - C2.1 Reto en clase: Arduino UNO salida digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.1_DulceJasminVillalobosPerez_Verde.md)
-     - C2.2 Reto en clase: Entradas digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.2_DulceJasminVillalobosPerez_Verde.md)
+     - C3.1 Reto en clase: Arduino UNO salida digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.1_DulceJasminVillalobosPerez_Verde.md)
+     - C3.2 Reto en clase: Entradas digital [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.2_DulceJasminVillalobosPerez_Verde.md)
+     - C3.3 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.3_DulceJasminVillalobosPerez_Verde.md)
+     - C3.4 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.4_DulceJasminVillalobosPerez_Verde.md)
 
 
 
