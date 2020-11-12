@@ -42,7 +42,7 @@
      - C3.4 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.4_DulceJasminVillalobosPerez_Verde.md)
   
   - #### ACTIVIDAD  
-      - C3.4 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A3.1_DulceJasminVillalobosPerez_Verde.md)
+      - A3.1 Actividad:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A3.1_DulceJasminVillalobosPerez_Verde.md)
 
 
 
