@@ -41,6 +41,8 @@
      - C3.3 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.3_DulceJasminVillalobosPerez_Verde.md)
      - C3.4 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.4_DulceJasminVillalobosPerez_Verde.md)
      - C3.6 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.6_DulceJasminVillalobosPerez_Verde.md)
+     - C3.7 Reto en clase:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C3.7_DulceJasminVillalobosPerez_Verde.md)
+  
   
   - #### ACTIVIDAD  
       - A3.1 Actividad:  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A3.1_DulceJasminVillalobosPerez_Verde.md)
