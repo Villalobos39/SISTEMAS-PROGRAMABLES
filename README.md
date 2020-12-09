@@ -1,5 +1,6 @@
 # :blue_book: MATERIA : SISTEMAS-PROGRAMABLES 
 #  ![LOGO](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/IMG/Logo.PNG)
+
 #### :computer: CARRERA : INGENIERIA EN SISTEMAS COMPUTACIONALES 
 #### :date: PERIODO: SEPTIEMBRE - ENERO 2020 7MO SEMESTRE
 ##### :mortar_board: ALUMNO VILLALOBOS PEREZ DULCE JASMIN 17212196 
@@ -53,6 +54,7 @@
 ###  PUERTOS Y BUSES DE COMUNICACION
  - #### RETO EN CLASE
      - C4.1 Programación Microcontrolador NodeMCU ESP32 [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C4.1_DulceJasminVillalobosPerez_Verde.md)   
+     - C4.2 Programación [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C4.2_DulceJasminVillalobosPerez_Verde.md)   
   
   - #### ACTIVIDAD       
      - A4.1 Actividad de aprendizaje :  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A4.1_DulceJasminVillalobosPerez_Verde.md)

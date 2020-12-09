@@ -37,3 +37,4 @@ INFORMACIÓN: Unsupported notification method: $/setTraceNotification
 2020.12.08 23:36:33 WARN  no build tool detected in workspace 'C:\Users\villa\OneDrive\Escritorio\SISTEMAS PROGRAMABLES'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 dic 08, 2020 11:46:42 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+2020.12.08 23:49:02 INFO  shutting down Metals
