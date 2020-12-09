@@ -24,3 +24,9 @@ INFORMACIÓN: Unsupported notification method: $/setTraceNotification
 dic 07, 2020 6:50:17 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFORMACIÓN: Unsupported notification method: $/setTraceNotification
 2020.12.07 19:45:09 INFO  shutting down Metals
+2020.12.08 17:08:34 INFO  Started: Metals version 0.9.7 in workspace 'C:\Users\villa\OneDrive\Escritorio\SISTEMAS PROGRAMABLES' for client vscode.
+2020.12.08 17:08:38 INFO  time: initialize in 4.76s
+2020.12.08 17:08:41 WARN  Build server is not auto-connectable.
+2020.12.08 17:08:41 WARN  no build tool detected in workspace 'C:\Users\villa\OneDrive\Escritorio\SISTEMAS PROGRAMABLES'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+dic 08, 2020 5:37:12 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
