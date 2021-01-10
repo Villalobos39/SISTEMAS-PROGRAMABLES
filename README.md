@@ -61,6 +61,12 @@
 
      - A4.2 Actividad de aprendizaje :  [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/A4.2_DulceJasminVillalobosPerez_Verde.md)
 
+### UNIDAD 5 NODE RED
+ - #### RETO EN CLASE
+     - C5.1 Reto en clase [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C5.1_DulceJasminVillalobosPerez_Verde.md)   
+     - C5.2 Interface Node-RED y NodeMCU ESP32 [:open_file_folder: MD](https://github.com/Villalobos39/SISTEMAS-PROGRAMABLES/blob/SISTEMAS-PROGRAMABLES/MD/C5.2_DulceJasminVillalobosPerez_Verde.md)   
+  
+  - #### ACTIVIDAD       
 
 
 
